@@ -63,5 +63,5 @@ Coming soon
 
 ## Developed By
 
-Johann Correa, Yousef Shalaby, Karim Al Khatib, Omar Al Shaer
-Abu Dhabi University — Computer Science Capstone Project
+Karim Al Khatib, Johann Correa, Omar Al Shaer, Yousef Shalaby 
+Abu Dhabi University - Cybersecurity Engineering Capstone Project
